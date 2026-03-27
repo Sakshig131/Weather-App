@@ -19,7 +19,7 @@ A simple weather application that shows real-time weather data using OpenWeather
 3. Get weather details
 
 ## 🌐 Live Demo
-https://Sakshig131.github.io/weather-app/
+https://Sakshig131.github.io/Weather-App/
 
 ## 👩‍💻 Author
 Sakshi Gaikwad
